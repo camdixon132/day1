@@ -1,0 +1,15 @@
+/Users/camerondixon/Projects/Day1/Day1/bin/Debug/net6.0/Day1
+/Users/camerondixon/Projects/Day1/Day1/bin/Debug/net6.0/Day1.deps.json
+/Users/camerondixon/Projects/Day1/Day1/bin/Debug/net6.0/Day1.runtimeconfig.json
+/Users/camerondixon/Projects/Day1/Day1/bin/Debug/net6.0/Day1.dll
+/Users/camerondixon/Projects/Day1/Day1/bin/Debug/net6.0/Day1.pdb
+/Users/camerondixon/Projects/Day1/Day1/obj/Debug/net6.0/Day1.csproj.AssemblyReference.cache
+/Users/camerondixon/Projects/Day1/Day1/obj/Debug/net6.0/Day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondixon/Projects/Day1/Day1/obj/Debug/net6.0/Day1.AssemblyInfoInputs.cache
+/Users/camerondixon/Projects/Day1/Day1/obj/Debug/net6.0/Day1.AssemblyInfo.cs
+/Users/camerondixon/Projects/Day1/Day1/obj/Debug/net6.0/Day1.csproj.CoreCompileInputs.cache
+/Users/camerondixon/Projects/Day1/Day1/obj/Debug/net6.0/Day1.dll
+/Users/camerondixon/Projects/Day1/Day1/obj/Debug/net6.0/refint/Day1.dll
+/Users/camerondixon/Projects/Day1/Day1/obj/Debug/net6.0/Day1.pdb
+/Users/camerondixon/Projects/Day1/Day1/obj/Debug/net6.0/Day1.genruntimeconfig.cache
+/Users/camerondixon/Projects/Day1/Day1/obj/Debug/net6.0/ref/Day1.dll
