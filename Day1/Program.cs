@@ -1,19 +1,35 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
 
-//example
+Console.WriteLine("Please enter the length of the room");
+double length = double.Parse(Console.ReadLine());
 
-//NULL
-string myName = null;
-Console.WriteLine(myName);
-string friend = "Josh Carolin";
+Console.WriteLine("Please enter the width of the room");
+double width = double.Parse(Console.ReadLine());
 
-if (friend == "Family")
+double area = length * width;
+
+double perimeter = length + length + width + width;
+
+Console.WriteLine("The perimeter of the room is " + perimeter);
+
+Console.WriteLine("The area of the room is " + area);
+
+if (area <= 250)
 {
-    myName = "Justin Jones";
+    Console.WriteLine("This is a small room.");
 }
-else if (friend == "Josh Carolin")
+else if (area <= 650)
 {
-    myName = "Jeo Jones";
+    Console.WriteLine("This is a medium sized room.");
 }
-Console.WriteLine(myName);
+else
+{
+    Console.WriteLine("This is a large room.");    
+}
+
+Console.WriteLine("Please enter the height of the room.");
+double height = double.Parse(Console.ReadLine());
+
+double volume = length * width * height;
+
+Console.WriteLine("The volume of the room is " + volume);
