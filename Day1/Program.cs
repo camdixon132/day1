@@ -33,3 +33,6 @@ double height = double.Parse(Console.ReadLine());
 double volume = length * width * height;
 
 Console.WriteLine("The volume of the room is " + volume);
+
+double surfaceArea = 2 * ((width * length) + (height * length) + (height * width));
+Console.WriteLine("The surface area of the room is " + surfaceArea);
